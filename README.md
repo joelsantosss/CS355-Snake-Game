@@ -52,12 +52,6 @@ The game uses the ncurses library to create a bordered snake pit in the terminal
 
 ---
 
-## 📁 File
-
-- [snake.c](./snake.c)
-
----
-
 ## 📫 Contact
 
 Feel free to connect or ask questions:  
