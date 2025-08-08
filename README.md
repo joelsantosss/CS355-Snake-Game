@@ -1,5 +1,5 @@
 355 Snake Game
-Classic Snake game implemented in C for the CS 355 Systems Programming course (Fall 2020).
+Classic Snake game implemented in C for the CS 355 Systems Programming course.
 
 🐍 Project Overview
 This project implements the classic Snake game playable in the terminal using the ncurses library. The snake moves inside a bordered “snake pit” area, growing by eating numbered trophies that appear randomly. The game features increasing speed, trophy expiration, and strict gameplay rules.
