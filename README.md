@@ -1,4 +1,4 @@
-#355 Snake Game
+355 Snake Game
 Classic Snake game implemented in C for the CS 355 Systems Programming course (Fall 2020).
 
 🐍 Project Overview
